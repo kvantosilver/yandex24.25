@@ -1,5 +1,6 @@
 def my_superfunction():
     print('Снегопад идет в столице!')
+    print('Руддщ цщкдв')
 
 
 def main():
